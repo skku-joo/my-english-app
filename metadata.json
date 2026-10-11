@@ -1,0 +1,8 @@
+{
+  "name": "Fluentia! - English Picture Book Reader",
+  "description": "Guided English picture book reading app for Grade 3-4 elementary learners, featuring read-aloud audio with sync highlighting, tap-for-help vocabulary, and interactive comprehension questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
